@@ -1,7 +1,6 @@
 body {
     width: 100%;
     height: 100%;
-    margin: 0,0,0,0;
     background: linear-gradient(45deg, rgba(230,110,143,1) 0%, rgba(100,63,212,1) 100%) fixed;
     color: white;
     text-align: center;
@@ -14,7 +13,7 @@ body {
 }
 
 .medium-container {
-    width: 100%;
+    width: 98%;
     height: 10%;
 }
 
