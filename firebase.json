@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "weeklybudget",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
