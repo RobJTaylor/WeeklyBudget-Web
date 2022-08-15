@@ -13,8 +13,11 @@ body {
 }
 
 .medium-container {
-    width: 98%;
+    width: 90%;
     height: 10%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 a {
